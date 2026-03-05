@@ -13,6 +13,7 @@ The portfolio highlights my background, skills, and selected projects in:
 It serves as a central place for recruiters to view my work and access detailed project repositories.
 
 ## Projects Featured
+- **Customer behavior Analysis** – Python,SQL & Power BI  
 - **Pizza Store Sales Analytics** – SQL & Power BI  
 - Additional data analytics projects (SQL, Power BI, dashboards)
 
